@@ -1,5 +1,5 @@
- {
-  "jobs" : [
+{
+  "jobs": [
     {
       "id": "1",
       "title": "Senior React Developer",
@@ -83,6 +83,34 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "2c98",
+      "title": "Test Job 1",
+      "type": "Full-Time",
+      "location": "Test",
+      "description": "This is a test job",
+      "salary": "Under $50K",
+      "conpany": {
+        "name": "Best Company",
+        "description": "Very good company",
+        "contactEmail": "test@jobs.com",
+        "contactPhone": "56489745"
+      }
+    },
+    {
+      "id": "6436",
+      "title": "New Test Job",
+      "type": "Part-Time",
+      "location": "Dubai",
+      "description": "ghffujfgj jhgjhgj dfffgg",
+      "salary": "Under $50K",
+      "conpany": {
+        "name": "iconcept llc",
+        "description": "rttyrtytytytyr rtyrtyrtyrytrb ewrerwewr",
+        "contactEmail": "test@example.us",
+        "contactPhone": "4556564645"
+      }
     }
   ]
- }
+}
