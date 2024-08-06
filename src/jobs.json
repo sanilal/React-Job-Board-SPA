@@ -91,7 +91,7 @@
       "location": "Test",
       "description": "This is a test job",
       "salary": "Under $50K",
-      "conpany": {
+      "company": {
         "name": "Best Company",
         "description": "Very good company",
         "contactEmail": "test@jobs.com",
@@ -99,17 +99,17 @@
       }
     },
     {
-      "id": "6436",
-      "title": "New Test Job",
-      "type": "Part-Time",
-      "location": "Dubai",
-      "description": "ghffujfgj jhgjhgj dfffgg",
+      "id": "65b3",
+      "title": "dummy job2",
+      "type": "Full-Time",
+      "description": "ggghffgghf hgh ",
+      "location": "gfdfdfdf",
       "salary": "Under $50K",
-      "conpany": {
-        "name": "iconcept llc",
-        "description": "rttyrtytytytyr rtyrtyrtyrytrb ewrerwewr",
-        "contactEmail": "test@example.us",
-        "contactPhone": "4556564645"
+      "company": {
+        "name": "ghghfggfgh",
+        "description": "gghfggffghfg",
+        "contactEmail": "test@jobs.com",
+        "contactPhone": "ghgh fgdfgdf"
       }
     }
   ]
